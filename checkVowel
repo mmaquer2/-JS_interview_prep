@@ -1,0 +1,15 @@
+const vowels = ['a', 'e', 'i', 'o', 'u'];
+const vowelCount = 0;
+const testWord = 'hello';
+const res = '';
+
+function vowelCheck(word) {
+  const checkWord = word.split('');
+  for (let char of checkWord) {
+    if (checkWord[char].includes(vowels)) {
+      vowelCount++;
+    }
+    return vowelCount;
+  }
+}
+vowelCheck(testWord);

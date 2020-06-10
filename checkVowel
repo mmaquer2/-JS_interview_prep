@@ -13,3 +13,14 @@ function vowelCheck(word) {
   }
 }
 vowelCheck(testWord);
+
+
+
+
+/////More effecitive response ///
+
+const findVowels = str => {
+  const matched = str.match(/[aeiou]/gi)
+  return matched ? matches.length : 0
+}
+

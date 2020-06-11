@@ -11,11 +11,11 @@ https://www.digitalocean.com/community/tutorials/understanding-classes-in-javasc
 
 
 # Practice Problems:
-  check a string for a palindrome
-  reverse a string
-  check if two strings are an anagram
-  iterate through a 2d array to find a specific value (matrix search)
-  max height for a egg to drop
+ - check a string for a palindrome
+ - reverse a string
+  - check if two strings are an anagram
+ - iterate through a 2d array to find a specific value (matrix search)
+  - max height for a egg to drop
 
 
 

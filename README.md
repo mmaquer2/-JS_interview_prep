@@ -1,6 +1,6 @@
-## JavaScript Interview Prep Resources
+# JavaScript Interview Prep Resources
 
-# Links:
+## Links:
 
 https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/
 https://developer.mozilla.org/
@@ -9,7 +9,7 @@ https://www.educative.io/blog/javascript-data-structures
 https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript#conclusion
 
 
-# Practice Problems:
+## Practice Problems:
  - check a string for a palindrome
  - reverse a string
   - check if two strings are an anagram
